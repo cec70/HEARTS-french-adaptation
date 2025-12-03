@@ -70,4 +70,4 @@ Open `camembert_fairtranslate.ipynb` and run all cells.
 
 ## References
 1. King, T., et al. (2024). "HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection".
-2. FairTranslate Dataset - https://huggingface.co/datasets/Fannyjrd/FairTranslate_fr
+2. Jourdan, F., Chevalier, Y. & Favre, C. (2025) ‘FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity’, in 8th annual ACM FAccT conference (FAccT 2025), Athens, Greece, June. ACM.
