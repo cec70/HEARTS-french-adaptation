@@ -69,6 +69,5 @@ Open `camembert_fairtranslate.ipynb` and run all cells.
 ---
 
 ## References
-1. King, T, et al. (2024). "HEARTS: A Holistic Framework for Explainable,
-Sustainable and Robust Text Stereotype Detection".
+1. King, T., et al. (2024). "HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection".
 2. FairTranslate Dataset - https://huggingface.co/datasets/Fannyjrd/FairTranslate_fr
