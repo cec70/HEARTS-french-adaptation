@@ -13,11 +13,13 @@ Following the HEARTS methodology, this work investigates how machine learning mo
 
 ---
 
-## Reproducing the Original HEARTS Baseline
+## Reproducing an Original HEARTS Baseline
 
 Alongside the French adaptation, this repository includes the notebook `HEARTS_EMGSD_ALBERT.ipynb`, which replicates one of the experiments from the original HEARTS paper as a baseline, using the ALBERT-base-v2 model trained on the EMGSD dataset.
 
-This replication follows the requirement of reproducing the original methodology using the open dataset. The model achieves a macro-F1 score of **81.14%**, closely matching the 81.5% reported in the paper.
+This replication follows the project's requirement of reproducing the original methodology using the open dataset. The model achieves a macro-F1 score of **81.14%**, closely matching the 81.5% reported in the paper.
+
+Having validated the original methodology through a successful baseline reproduction, the next step is to adapt the HEARTS framework to a new context using the FairTranslate dataset for French occupational stereotypes.
 
 ---
 
