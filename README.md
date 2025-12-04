@@ -13,6 +13,14 @@ Following the HEARTS methodology, this work investigates how machine learning mo
 
 ---
 
+## Reproducing the Original HEARTS Baseline
+
+Alongside the French adaptation, this repository includes the notebook `HEARTS_EMGSD_ALBERT.ipynb`, which replicates one of the experiments from the original HEARTS paper as a baseline, using the ALBERT-base-v2 model trained on the EMGSD dataset.
+
+This replication follows the requirement of reproducing the original methodology using the open dataset. The model achieves a macro-F1 score of **81.14%**, closely matching the 81.5% reported in the paper.
+
+---
+
 ## Dataset: FairTranslate
 
 FairTranslate contains **2,418 English–French sentence pairs**, each annotated with:
@@ -71,5 +79,5 @@ This project is designed to run directly in **Google Colab**.
 ---
 
 ## References
-1. King, T., et al. (2024). "HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection".
-2. Jourdan, F., Chevalier, Y. & Favre, C. (2025) ‘FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity’, in 8th annual ACM FAccT conference (FAccT 2025), Athens, Greece, June. ACM.
+1. King, T., et al. (2024) "HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection", in 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
+2. Jourdan, F., Chevalier, Y. & Favre, C. (2025) "FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity", in 8th annual ACM FAccT conference (FAccT 2025), Athens, Greece, June. ACM.
